@@ -1,0 +1,25 @@
+{
+  "name": "authentication-jwts",
+  "version": "1.0.0",
+  "description": "Simple implementation of JWT's in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DweetParikh/Authentication-JWTs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DweetParikh/Authentication-JWTs/issues"
+  },
+  "homepage": "https://github.com/DweetParikh/Authentication-JWTs#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
